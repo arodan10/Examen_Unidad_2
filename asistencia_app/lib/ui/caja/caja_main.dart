@@ -48,7 +48,6 @@ class CajaUI extends StatefulWidget {
 }
 
 class _CajaUIState extends State<CajaUI> {
-  //ApiCovid apiService;
   final DateFormat formatter = DateFormat('yyyy-MM-dd');
   var api;
   @override
